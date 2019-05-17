@@ -30,7 +30,7 @@ void registerPhoneData()
 		find_id();
 		if( count_ID == 3)
 		{
-			count_ID = count_ID - 3;
+			count_ID = 0;
 			return;
 		}
 	}
