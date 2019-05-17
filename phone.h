@@ -1,3 +1,4 @@
+
 // array of sturcure
 
 # define MAX 50
